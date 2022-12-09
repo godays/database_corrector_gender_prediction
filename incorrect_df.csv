@@ -1,0 +1,13 @@
+EMAIL,NAME,LAST_NAME,TEL,CITY,WRONG_NAME,WRONG,WRONG_LAST_NAME,WRONG_TEL,WRONG_CITY
+nan,Marina,Shapar,11311110,Moscow,"(0, 'Marina')",1,"(0, 'Shapar')","(1, '11311110')","(0, 'Moscow')"
+nan,Yekaterina,Ilyina,nan,Saint petersburg,"(0, 'Yekaterina')",1,"(0, 'Ilyina')","(1, 'nan')","(0, 'Saint petersburg')"
+nan,Andrei,Fedorov,85212384,Zainsk,"(0, 'Andrei')",1,"(0, 'Fedorov')","(1, '85212384')","(0, 'Zainsk')"
+nan,Alexander,Evdokimov,482,Volokolamsk,"(0, 'Alexander')",1,"(0, 'Evdokimov')","(1, '482')","(0, 'Volokolamsk')"
+nan,Vasiliy,nan,7123465,Moscow,"(0, 'Vasiliy')",1,"(1, 'nan')","(0, '7123465')","(0, 'Moscow')"
+nan,sdfsdf,Dwfef,9994532,Rostov,"(1, 'sdfsdf')",1,"(0, 'Dwfef')","(0, '9994532')","(0, 'Rostov')"
+nan,Valentina,Sergach,12345567,Saint petersburg,"(0, 'Valentina')",1,"(0, 'Sergach')","(1, '12345567')","(0, 'Saint petersburg')"
+nan,Dmitri,Smirnov,9355r24,Kazan,"(0, 'Dmitri')",1,"(0, 'Smirnov')","(1, '9355r24')","(0, 'Kazan')"
+nan,Valeria,Kolokolkina,12O4352,Saint petersburg,"(0, 'Valeria')",1,"(0, 'Kolokolkina')","(1, '12O4352')","(0, 'Saint petersburg')"
+nan,fwefwgwgwfds,Sfewrfw,9584356,Pskov,"(1, 'fwefwgwgwfds')",1,"(0, 'Sfewrfw')","(0, '9584356')","(0, 'Pskov')"
+nan,Esfir',Kalman,6547897,Rostov,"(1, ""Esfir'"")",1,"(0, 'Kalman')","(0, '6547897')","(0, 'Rostov')"
+nan,Xenia,Izverova,5467328,jsdhf,"(0, 'Xenia')",1,"(0, 'Izverova')","(0, '5467328')","(1, 'jsdhf')"
